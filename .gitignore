@@ -1,0 +1,6 @@
+/.sonarlint
+/.metadata
+/tdd/*.classpath
+/tdd/*.project
+/tdd/.settings/*.prefs
+/tdd/target
